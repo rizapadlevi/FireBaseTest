@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Enable Firebase SDK initialization without explicit opt-in -->
+    <bool name="google_app_measurement_enabled">true</bool>
+    <bool name="firebase_analytics_collection_enabled">true</bool>
+    <bool name="firebase_performance_collection_enabled">true</bool>
+</resources>

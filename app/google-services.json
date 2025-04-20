@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059840577897",
+    "project_id": "task-riza",
+    "storage_bucket": "task-riza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059840577897:android:089c19e44dce121e59edf8",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmL0v48Q7sGt-LAUKtnbZBa9jxbe9aFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
